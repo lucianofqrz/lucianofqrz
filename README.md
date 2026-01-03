@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá! Eu sou o Luciano Ferreira 👋
 
-<!--
-**lucianofqrz/lucianofqrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Ciência da Computação** na Universidade Federal de Sergipe (UFS)
+🚀 Focado em desenvolvimento **Back-end** com **Java**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que estou estudando
+* **Linguagens:** Java, C
+* **Conceitos:** Lógica, Orientação a Objetos (POO), Estruturas de Dados
+* **Ferramentas:** Git, GitHub
+
+### 📈 Em Desenvolvimento
+* 🚧 **Sistema de Gestão de Laboratórios:** Projeto acadêmico para gerenciamento de recursos, aplicando conceitos de POO e Java puro.
+
+---
+📫 **Contato:** [luciano.fq2006@gmail.com](mailto:luciano.fq2006@gmail.com)
