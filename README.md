@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luciano Ferreira 👋
 
 🎓 **Estudante de Ciência da Computação** na Universidade Federal de Sergipe (UFS)
-🚀 Focado em desenvolvimento **Back-end** com **Java**
+🚀 Focado em desenvolvimento **Back-end** com **Java e C**
 
 ---
 
